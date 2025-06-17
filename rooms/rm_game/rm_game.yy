@@ -20,6 +20,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6888E94D","properties":[],"isDnd":false,"objectId":{"name":"obj_Ball","path":"objects/obj_Ball/obj_Ball.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":180.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6C46210","properties":[],"isDnd":false,"objectId":{"name":"obj_Collision_Up","path":"objects/obj_Collision_Up/obj_Collision_Up.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":11.000001,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":-64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5AB8BDC1","properties":[],"isDnd":false,"objectId":{"name":"obj_Collision_Down","path":"objects/obj_Collision_Down/obj_Collision_Down.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":11.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-31.0,"y":361.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2C2A343D","properties":[],"isDnd":false,"objectId":{"name":"obj_Controll","path":"objects/obj_Controll/obj_Controll.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":320.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Raquetes","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7FEE664B","properties":[],"isDnd":false,"objectId":{"name":"obj_Raquete","path":"objects/obj_Raquete/obj_Raquete.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":60.0,"y":116.0,},
@@ -40,6 +41,7 @@
     {"name":"inst_6888E94D","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_6C46210","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_5AB8BDC1","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_2C2A343D","path":"rooms/rm_game/rm_game.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

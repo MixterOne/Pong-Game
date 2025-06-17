@@ -6,5 +6,9 @@ move_bounce_solid(true);
 
 speed += inc_velo;
 
-audio_play_sound(Sound1, 10, false);
+//Antes de tocar o som eu vou pausar o som
+audio_pause_sound(snd_Boing)
+
+//Tocando o som de boing
+audio_play_sound(snd_Boing, 10, false);
 
