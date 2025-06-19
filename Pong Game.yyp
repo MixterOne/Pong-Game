@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"spr_Collision","path":"sprites/spr_Collision/spr_Collision.yy",},"order":6,},
     {"id":{"name":"spr_eyes","path":"sprites/spr_eyes/spr_eyes.yy",},"order":2,},
+    {"id":{"name":"scr_Scirpt","path":"scripts/scr_Scirpt/scr_Scirpt.yy",},"order":0,},
     {"id":{"name":"obj_Collision_Up","path":"objects/obj_Collision_Up/obj_Collision_Up.yy",},"order":3,},
     {"id":{"name":"snd_Boing","path":"sounds/snd_Boing/snd_Boing.yy",},"order":0,},
     {"id":{"name":"spr_face","path":"sprites/spr_face/spr_face.yy",},"order":1,},
